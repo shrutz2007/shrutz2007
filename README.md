@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shruti Jawale</h1>
 <h3 align="center">A girl ready to learn new things</h3>
 
-- 🌱 I’m currently learning **Machine Learning and Designing Softwares**
+- 🌱 I’m currently learning **SAP ABAP**
 
 - 💬 Ask me about **Programming and Designing**
 
