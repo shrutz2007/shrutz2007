@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shruti Jawale</h1>
 <h3 align="center">A girl ready to learn new things</h3>
 
-- 🌱 I’m currently learning **SAP ABAP on HANA**
+- 🌱 I’m currently learning **SAP ABAP on HANA and Web Development**
 
 - 💬 Ask me about **Programming(ABAP,Python) and Designing**
 
@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-- Some Creative Stuff - [Click Here](https://maysuru.blogspot.com/)
+- Some Creative Stuff by Shruti - [Maysore Website](https://maysuru.blogspot.com/)
 
 
 
