@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **shrutijawale111@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14YkcgTYjoMx27K5aw31oJF2DZ_iL-zms/view?usp=drivesdk](https://drive.google.com/file/d/14YkcgTYjoMx27K5aw31oJF2DZ_iL-zms/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14YkcgTYjoMx27K5aw31oJF2DZ_iL-zms/view?usp=drivesdk)
 
 - ⚡ Fun fact **I think I am funny**
 
