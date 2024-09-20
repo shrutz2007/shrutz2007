@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shruti Jawale</h1>
 <h3 align="center">A girl ready to learn new things</h3>
 
-- 🌱 I’m currently learning **UI5/FIORI and ODATA**
+- 🌱 I’m currently learning **SAP GTS**
 
-- 💬 Ask me about **Programming(ABAP,Python) and Designing**
+- 💬 Ask me about **Programming(SAP GTS, ABAP, FIORI, Python) and Designing**
 
 - 📫 How to reach me **shrutijawale111@gmail.com**
 
