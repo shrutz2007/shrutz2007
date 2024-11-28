@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **shrutijawale111@gmail.com**
 
-- 📄 Know about my experiences [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/shruti-jawale-3a4732178/)
+- 📄 Know about my experiences [LinkedIn]([https://linkedin.com/in/https://www.linkedin.com/in/shruti-jawale-3a4732178/](https://www.linkedin.com/in/shruti-jawale-3a4732178/))
 
 - Some Creative Stuff by Shruti - [Maysore Website](https://maysuru.blogspot.com/)
 
